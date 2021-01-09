@@ -10,7 +10,7 @@
     ],
     "require": {
         "laravel-lang/lang": "^7.0",
-        "symfony/process": "^5.0.0",
+        "symfony/process": "^4.3.4 || ^5.0.0",
         "ext-json": "*"
     },
     "autoload": {
